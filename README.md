@@ -1,2 +1,2 @@
-# covid19-diagnosis
+# COVID-19 Diagnosis
  
